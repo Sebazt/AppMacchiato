@@ -21,5 +21,4 @@
 </ul>
 
 
- <h2>Correo</h2>
- <p>Estaría encantado de recibir un feedback de tu parte,  <a href="mailto:juan.londono29@udea.edu.co">juan.londono29@udea.edu.co</a></p>
+
